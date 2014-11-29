@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6250" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6250" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
@@ -85,7 +85,7 @@
                                 <rect key="frame" x="151" y="40" width="20" height="20"/>
                             </activityIndicatorView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="degree" translatesAutoresizingMaskIntoConstraints="NO" id="SjX-W7-dzh">
-                                <rect key="frame" x="280" y="207" width="36" height="36"/>
+                                <rect key="frame" x="283" y="199" width="36" height="36"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.29019607843137252" green="0.56470588235294117" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -100,7 +100,7 @@
                             <constraint firstItem="LWu-yw-Gze" firstAttribute="centerX" secondItem="i1H-nj-Mdw" secondAttribute="centerX" constant="-0.5" id="Dpa-xB-1Mt"/>
                             <constraint firstItem="SIH-bP-RZR" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="47" id="Hnh-zJ-zn2"/>
                             <constraint firstItem="Zab-nV-PQS" firstAttribute="top" secondItem="i1H-nj-Mdw" secondAttribute="bottom" constant="40" id="JVJ-dm-lhu"/>
-                            <constraint firstItem="4H3-j2-nyq" firstAttribute="top" secondItem="SjX-W7-dzh" secondAttribute="bottom" constant="-45" id="R3l-dT-grI"/>
+                            <constraint firstItem="4H3-j2-nyq" firstAttribute="top" secondItem="SjX-W7-dzh" secondAttribute="bottom" constant="-37" id="R3l-dT-grI"/>
                             <constraint firstAttribute="trailingMargin" secondItem="FQ8-sL-zDy" secondAttribute="trailing" constant="40" id="YQB-Yu-ywr"/>
                             <constraint firstItem="Zab-nV-PQS" firstAttribute="leading" secondItem="eTN-Wz-3NR" secondAttribute="trailing" constant="5" id="ckh-PU-Irj"/>
                             <constraint firstItem="4H3-j2-nyq" firstAttribute="top" secondItem="E3m-Po-Gia" secondAttribute="bottom" constant="-19" id="exf-EW-GxO"/>
@@ -109,7 +109,7 @@
                             <constraint firstAttribute="centerX" secondItem="i1H-nj-Mdw" secondAttribute="centerX" constant="-1.5" id="jbL-k5-wFc"/>
                             <constraint firstItem="SIH-bP-RZR" firstAttribute="top" secondItem="6LZ-DN-jB4" secondAttribute="bottom" constant="10" id="kOG-3q-nh9"/>
                             <constraint firstAttribute="trailingMargin" secondItem="560-m1-XST" secondAttribute="trailing" constant="40" id="rgO-aS-qbH"/>
-                            <constraint firstItem="SjX-W7-dzh" firstAttribute="leading" secondItem="4H3-j2-nyq" secondAttribute="trailing" constant="-6" id="v1d-jN-e7f"/>
+                            <constraint firstItem="SjX-W7-dzh" firstAttribute="leading" secondItem="4H3-j2-nyq" secondAttribute="trailing" constant="-3" id="v1d-jN-e7f"/>
                             <constraint firstAttribute="centerX" secondItem="eTN-Wz-3NR" secondAttribute="centerX" constant="92" id="vRN-Pu-KLt"/>
                             <constraint firstItem="Zab-nV-PQS" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="91" id="vef-ZE-LXJ"/>
                             <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="76c-X3-sZV" secondAttribute="bottom" constant="90" id="xvx-C5-qUw"/>
